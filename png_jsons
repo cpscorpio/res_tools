@@ -1,0 +1,1273 @@
+{
+'res/common/progress_ver2/enter_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_patch.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/loading_ui/Json/loading_ui_1.json',
+	],
+'res/common/panelthings_ver2/scroll_selected.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/panel_things/xuanshang_cloud.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+	],
+'res/common/icon/equip/10006.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/button_ver2/bt_close.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/get_ver2_1/Json/get.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_task.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_information.json',
+	],
+'res/common/enlarge_jiugong/chongwu_jianbian_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/panel_ver2/team_panel3.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/button_ver2/bt_share.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+	],
+'res/common/button_words/btn_words_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/panel_ver2/line2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/item_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/dialog_ver2/Json/dialog_ver2.json',
+	],
+'res/common/panel_ver2/pack_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+	],
+'res/common/progress_ver2/prog_exp_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/exp_ui.json',
+	],
+'res/common/icon_v1/icon_shenshou.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_information.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/panelthings_ver2/jade_s.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/progress_ver2/prog_exp.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/exp_ui.json',
+	],
+'res/common/panel_ver2/pn_white.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+	],
+'res/common/icon_ver2/faction2_1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_faction.json',
+	],
+'res/common/icon_ver2/icon_shop.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/panelthings_ver2/knot.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/panel_ver2/settlement_clouds3.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+	],
+'res/common/icon_ver2/ic_wugong.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/panel_ver2/dialog_panel_2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/dialog_ver2/Json/dialog_ver2.json',
+	],
+'res/common/button_ver2/jinru.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_kaiqi_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/stage_intro/Json/stage_intro_1.json',
+	],
+'res/common/progress_ver2/progress_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/enlarge_jiugong/yuan_big_white.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/setting_ui/Json/setting_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+	],
+'res/common/icon/item/14096.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/icon/head_icon/1007.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/setting_ui/Json/setting_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+	],
+'res/common/background_ver2/mask.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/setting_ui/Json/setting_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/servant_info.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/shezhi_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+	],
+'res/common/button_ver2/right_arrow.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/icon_ver2/ic_1st.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+	],
+'res/common/panelthings_ver2/info1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+	],
+'res/common/panelthings_ver2/tips_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/enlarge_jiugong/icon_hecheng_jiajian_gb.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_shangjia.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/icon/guard/2020.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_tianti_record_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_fight_record_schedule.json',
+	],
+'res/common/icon_v1/arrow_left.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/enlarge_jiugong/white_tuoyuan.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/icon/guard/2050.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+	],
+'res/common/panel_ver2/list_1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_v2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/panel_ver2/pattern_top.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+	],
+'res/common/icon_ver2/ic_pet.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+	],
+'res/common/panel_things/xuanshang_cloud_up.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+	],
+'res/common/button_words/btn_words_zhuangbei_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/panelthings_ver2/settlement_chip.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+	],
+'res/common/panel_things/line_up.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/icon/head_icon/1003.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+	],
+'res/common/icon/item/14004.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/stage_intro/Json/stage_intro_1.json',
+	],
+'res/common/panelthings_ver2/deadleaf2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+	],
+'res/common/panelthings_ver2/total_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/button_ver2/lineup_icon.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/panel_ver2/patttern_dark2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/icon_v1/icon_red_word_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+	],
+'res/common/icon/item/14469.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/button_words/btn_words_xiexia_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/enlarge_jiugong/long_line_tips.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_task.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_mail.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/info_tips_ui/Json/info_tips_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+	],
+'res/common/panel_ver2/settlement_clouds2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+	],
+'res/common/icon_ver2/lineup_icon_frame.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/icon_ver2/faction2_2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_faction.json',
+	],
+'res/common/panelthings_ver2/tips_bg2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/dialog_ver2/Json/dialog_ver2.json',
+	],
+'res/common/enlarge_jiugong/duizhan_box_jiugong.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fight_ui/Json/fight_ui.json',
+	],
+'res/common/icon_v1/icon_hard.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+	],
+'res/common/enlarge_jiugong/zhandou_zidong_skill_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+	],
+'res/common/icon/item/14105.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/panelthings_ver2/lv_pet.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+	],
+'res/common/icon_ver2/coin2_s.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/get_ver2_1/Json/tips.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+	],
+'res/common/panelthings_ver2/deadleaf.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/get_ver2_1/Json/get.json',
+	],
+'res/common/icon/equip/10018.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business_detail.json',
+	],
+'res/common/icon_v1/zhuangbei_ing.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/icon/item/14001.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_tip_ver2.json',
+	],
+'res/common/enlarge_jiugong/chongwu_btn_kuang.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business_detail.json',
+	],
+'res/common/icon_v1/icon_danger.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+	],
+'res/common/panelthings_ver2/cloud_role.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+	],
+'res/common/icon_ver2/ic_fuzhu.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/panel_ver2/handbook_panelbg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/battle_map_ui02/Json/battle_map_ui01.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/tab_ver2/tab_left_frame.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/enlarge_jiugong/white_yuan.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/panelthings_ver2/fazhen.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_world_map_select.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_guaji.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fight_ui/Json/fight_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/panel_ver2/pattern_bottom.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+	],
+'res/common/icon_ver2/box.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+	],
+'res/common/panelthings_ver2/belt.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/battle_map_ui02/Json/battle_map_ui01.json',
+	],
+'res/common/panelthings_ver2/type_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/button_words/btn_words_diuqi_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/item_info_ui.json',
+	],
+'res/common/background_ver2/clothes_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fashion_ui/Json/fashion_ui.json',
+	],
+'res/common/panelthings_ver2/scroll_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/panelthings_ver2/role3.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_role.json',
+	],
+'res/common/panelthings_ver2/selected.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/panelthings_ver2/info_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+	],
+'res/common/progress_ver2/progress_team_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/enlarge_jiugong/chengjiu_shadow.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/setting_ui/Json/setting_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_shangjia.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/shezhi_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_fenlei.json',
+	],
+'res/common/panelthings_ver2/settlement_defeat.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/icon/item/14458.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/panel_ver2/window1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/servant_info.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_world_map_select.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_guaji.json',
+	],
+'res/common/icon/item/14082.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/icon_ver2/face_frame2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+	],
+'res/common/enlarge_jiugong/line_jianban_yellow_skill.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/text_effect/Json/text_effect.json',
+	],
+'res/common/icon_v1/tab_001.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+	],
+'res/common/icon/item/14484.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/icon_v1/number_lights_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+	],
+'res/common/background_ver2/loading_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/loading_ui/Json/loading_ui_1.json',
+	],
+'res/common/background_ver2/faction_bg2_1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_faction.json',
+	],
+'res/common/button_ver2/bt_edit.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/tab_ver2/tab_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_shangjia.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/panelthings_ver2/role5.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_role.json',
+	],
+'res/common/panelthings_ver2/role4.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_role.json',
+	],
+'res/common/panelthings_ver2/settlement_victory.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+	],
+'res/common/button_words/btn_words_chushou_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/panelthings_ver2/role1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_role.json',
+	],
+'res/common/icon_ver2/icon_frame_red.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/icon_v1/red_right.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+	],
+'res/common/enlarge_jiugong/shadow_transition.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/play_ui/Json/play_ui_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui1.json',
+	],
+'res/common/icon/equip/10003.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/item_info_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/icon/equip/10002.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/get_ver2_1/Json/get.json',
+	],
+'res/common/button_ver2/taskicon_f_2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+	],
+'res/common/tab_ver2/tab_bg4.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+	],
+'res/common/panel_ver2/info_panel2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info_2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info.json',
+	],
+'res/common/panel_ver2/panel_sec.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/servant_info.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_world_map_select.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_guaji.json',
+	],
+'res/common/icon_ver2/icon_stage.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/panelthings_ver2/arrow.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/button_ver2/back_btn.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fight_ui/Json/fight_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fashion_ui/Json/fashion_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/item_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/battle_map_ui02/Json/battle_map_ui01.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/world_map_ui/Json/world_map_ui_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/panel_ver2/line.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_tip_ver2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/stage_intro/Json/stage_intro_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/enlarge_jiugong/yuanjiaojuxing_white_4.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_yuyin.json',
+	],
+'res/common/panelthings_ver2/sever_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_1.json',
+	],
+'res/common/icon/pet/2080.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+	],
+'res/common/button_ver2/queding.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_faction.json',
+	],
+'res/common/icon_ver2/faction1_2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_faction.json',
+	],
+'res/common/panelthings_ver2/cloud_pet.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+	],
+'res/common/button_words/yaomodahui.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/play_ui/Json/play_ui_1.json',
+	],
+'res/common/background_ver2/copy_bg2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+	],
+'res/common/icon/skill/30006.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/background_ver2/map_001.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/world_map_ui/Json/world_map_ui_1.json',
+	],
+'res/common/icon/equip/10005.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_achievement_schedule.json',
+	],
+'res/common/panelthings_ver2/logo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_patch.json',
+	],
+'res/common/icon/item/14423.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/icon/item/14485.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/button_ver2/changeID2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_1.json',
+	],
+'res/common/panel_ver2/team_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/panel_ver2/stage_intro_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/stage_intro/Json/stage_intro_1.json',
+	],
+'res/common/panel_ver2/rb_tab_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/icon/item/14483.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/icon_ver2/disa_2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/background_ver2/enter_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_patch.json',
+	],
+'res/common/icon_ver2/foguang_2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/enlarge_jiugong/white_board.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/subtitle_ui/Json/subtitle_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_mail.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/item_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_information.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/wordx_ui/Json/word_combat_start.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/huodong_v1/Json/huodong_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_shangjia.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_guaji.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_tianti_record_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/shezhi_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_world_map_select.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_v2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_fight_record_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/play_ui/Json/play_ui_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/world_map_ui/Json/world_map_mini.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/demon_conference_ui/Json/demon_conference_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/item_info_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/world_map_ui/Json/world_map_ui_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_fenlei.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/setting_ui/Json/setting_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_achievement_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/battle_map_ui02/Json/battle_map_ui01.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_huodong.json',
+	],
+'res/common/panelthings_ver2/name_bg3.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+	],
+'res/common/icon_v1/icon_lock.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/panel_ver2/pattern_1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/button_ver2/arrow_up.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_faction.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/panelthings_ver2/name_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+	],
+'res/common/icon/head_icon/1004.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+	],
+'res/common/enlarge_jiugong/business_tanchuang_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business_detail.json',
+	],
+'res/common/role_name_maimai.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business.json',
+	],
+'res/common/icon_ver2/skill_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/servant_info.json',
+	],
+'res/common/tab_ver2/name_foguang.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/icon/skill/30004.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_skill_information.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/panelthings_ver2/loading_circle.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/icon_ver2/ic_friendbg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+	],
+'res/common/enlarge_jiugong/yellow_board.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_achievement_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fight_ui/Json/fight_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_tianti_record_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_fight_record_schedule.json',
+	],
+'res/common/panelthings_ver2/jade3.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+	],
+'res/common/icon_v1/black_wrong.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+	],
+'res/common/button_ver2/bt_bg2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+	],
+'res/common/background_ver2/create_role_bg1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_role.json',
+	],
+'res/common/icon/item/14486.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/icon_ver2/ic_zhiliao.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info_2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/servant_info.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info.json',
+	],
+'res/common/tab_ver2/tab_bg2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+	],
+'res/common/tab_ver2/tab_bg3.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/servant_info.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_guaji.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/item_list_ui.json',
+	],
+'res/common/ui_effects/lights_line_02.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/icon_ver2/silvercoin2_s.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+	],
+'res/common/panel_ver2/settlement_darkclouds2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/icon_ver2/ic_task_rb.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/enlarge_jiugong/huodong_diban_v1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/huodong_v1/Json/huodong_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/play_ui/Json/play_ui_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_huodong.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui1.json',
+	],
+'res/common/icon_ver2/disa_1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/button_ver2/button_bg2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_mail.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_shangjia.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_guaji.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/panelthings_ver2/rope_red.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/panel_ver2/eq_panel_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/panelthings_ver2/servant_sel.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/panelthings_ver2/completed.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+	],
+'res/common/panel_things/natural_shadow.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_mail.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+	],
+'res/common/tab_ver2/tab_bg1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+	],
+'res/common/icon_ver2/icon_bg_red.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/panelthings_ver2/red_point.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/panelthings_ver2/fire.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+	],
+'res/common/tab_ver2/tab_select1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+	],
+'res/common/panel_ver2/tips_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_tip_ver2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/info_tips_ui/Json/info_tips_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+	],
+'res/common/icon_v1/icon_yuliao.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+	],
+'res/common/icon/pet/2079.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_pet_list.json',
+	],
+'res/common/maimai_zhuangbei_box.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business.json',
+	],
+'res/common/panel_things/box_double_line.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_mail.json',
+	],
+'res/common/panel_things/gradient_yellow.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/icon_ver2/box_open.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+	],
+'res/common/panelthings_ver2/role6.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_role.json',
+	],
+'res/common/icon_v1/arrow_up_white.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_shangjia.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/panel_things/circle_baoguo_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/panelthings_ver2/leaf1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+	],
+'res/common/button_words/btn_words_jiesuo_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/button_words/qujingzhilu.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/play_ui/Json/play_ui_1.json',
+	],
+'res/common/button_ver2/taskicon_f_1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+	],
+'res/common/icon_ver2/dice.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+	],
+'res/common/panelthings_ver2/flower1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+	],
+'res/common/progress_v1/progress_jindutiao_up.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/using_progress_ui/Json/using_progress_ui.json',
+	],
+'res/common/panel_things/fog_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/panelthings_ver2/fight_seal.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/panel_things/cluod_huihe.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+	],
+'res/common/icon_v1/icon_kongwei.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+	],
+'res/common/panelthings_ver2/cloud_map.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_v2_1.json',
+	],
+'res/common/panel_ver2/btmap_mask.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/battle_map_ui02/Json/battle_map_ui01.json',
+	],
+'res/common/panelthings_ver2/cloud_role2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+	],
+'res/common/background_07.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_kaiqi_ui.json',
+	],
+'res/common/background_06.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_ui.json',
+	],
+'res/common/panelthings_ver2/rope.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/battle_map_ui02/Json/battle_map_ui01.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+	],
+'res/common/enlarge_jiugong/transition_y_w.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_huodong.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui1.json',
+	],
+'res/common/background_ver2/faction_bg2_2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_faction.json',
+	],
+'res/common/panel_things/line_down.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/enlarge_jiugong/black_board.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/text_effect/Json/text_effect.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/wordx_ui/Json/word_combat_start.json',
+	],
+'res/common/icon/item/14081.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/item_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/panelthings_ver2/role2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_role.json',
+	],
+'res/common/icon/skill/30001.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_information.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/servant_info.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/icon/item/14162.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/icon_ver2/faction1_1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_faction.json',
+	],
+'res/common/progress_v1/progress_general_short.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_achievement_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/enlarge_jiugong/yuanjiao_hecheng_jiugong.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/panelthings_ver2/exp.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/exp_ui.json',
+	],
+'res/common/background_04.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fight_ui/Json/fight_ui.json',
+	],
+'res/common/icon/pet/2083.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+	],
+'res/common/icon_ver2/icon_task.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/button_ver2/button_frame.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/select_faction.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_achievement_schedule.json',
+	],
+'res/common/icon/guard/2005.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/panel_ver2/task_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/icon/item/14003.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/stage_intro/Json/stage_intro_1.json',
+	],
+'res/common/button_words/btn_words_cunrucangku_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/item_info_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/button_ver2/buton_frame_sec.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+	],
+'res/common/icon_ver2/coin2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_achievement_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_mail.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_shangjia.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business_detail.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business.json',
+	],
+'res/common/ui_effects/lights_line.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/button_ver2/bt_refresh.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/icon/guard/2016.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/enlarge_jiugong/skill_information_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_skill_information.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_v2_1.json',
+	],
+'res/common/button_ver2/changeID.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_1.json',
+	],
+'res/common/icon_ver2/ic_team_rb.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/panelthings_ver2/flower2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+	],
+'res/common/icon/item/14487.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/icon/item/14480.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+	],
+'res/common/icon_v1/icon_normal.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+	],
+'res/common/panel_ver2/list_2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/get_ver2_1/Json/get.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info_2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info.json',
+	],
+'res/common/panel_ver2/ih_panel_bg2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/button_words/btn_words_xiangqian_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/panelthings_ver2/pole.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+	],
+'res/common/panel_things/baoguo_left_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/enlarge_jiugong/masking_blur.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/huodong_v1/Json/huodong_v1.json',
+	],
+'res/common/enlarge_jiugong/chongwu_panel_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/button_words/btn_words_fenjie_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/button_words/btn_words_cangku.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/enlarge_jiugong/zhandou_tuoyuan_jiugong.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/item_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+	],
+'res/common/icon/pet/2042.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+	],
+'res/common/icon/guard/1001.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+	],
+'res/common/progress_ver2/prog_hp_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+	],
+'res/common/panel_ver2/ih_panel_bg1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/button_ver2/back.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/huodong_v1/Json/huodong_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_kaiqi_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/play_ui/Json/play_ui_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+	],
+'res/common/enlarge_jiugong/team_panel_001.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+	],
+'res/common/button_words/quxiaoguanzhan_word.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+	],
+'res/common/icon/equip/10004.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_shangjia.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+	],
+'res/common/panelthings_ver2/captainmark.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/right_bar_ver2/Json/right_bar_ver2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/icon/item/14300.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+	],
+'res/common/panel_ver2/tk_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/get_ver2_1/Json/get.json',
+	],
+'res/common/icon_v1/icon_zhiye_01.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/icon/guard/2012.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/tab_ver2/name_hufa.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+	],
+'res/common/button_words/btn_words_zhengli.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/enlarge_jiugong/masking_role.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fight_ui/Json/fight_ui.json',
+	],
+'res/common/icon_ver2/ic_map.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_v2_1.json',
+	],
+'res/common/panelthings_ver2/tips_bg3.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/get_ver2_1/Json/tips.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_v2_1.json',
+	],
+'res/common/maimai_changtiao.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business.json',
+	],
+'res/common/panelthings_ver2/settlement_toplight.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+	],
+'res/common/icon_v1/icon_xuanshang.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+	],
+'res/common/button_ver2/arrow2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_world_map_select.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_guaji.json',
+	],
+'res/common/panel_things/baoguo_tips.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/item_info_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/icon/item/14000.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_tip_ver2.json',
+	],
+'res/common/button_ver2/arrow.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+	],
+'res/common/panelthings_ver2/scroll.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/battle_map_ui02/Json/battle_map_ui01.json',
+	],
+'res/common/button_ver2/back2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/item_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fight_ui/Json/fight_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/sphere_select/Json/sphere_select.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/huodong_v1/Json/huodong_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_kaiqi_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fashion_ui/Json/fashion_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/create_role_ver2/Json/create_role_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/achievement_ui/Json/achievement_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/play_ui/Json/play_ui_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/world_map_ui/Json/world_map_ui_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/battle_map_ui02/Json/battle_map_ui01.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/tab_ver2/tab_select3.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/xuanshang_ui/Json/xuanshang_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/pet_list_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_guaji.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/item_list_ui.json',
+	],
+'res/common/icon/guard/1003.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fight_ui/Json/fight_ui.json',
+	],
+'res/common/icon_ver2/ic_npc.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+	],
+'res/common/panel_ver2/info_panel.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info_2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info.json',
+	],
+'res/common/panel_ver2/dialog.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/dialog_ver2/Json/dialog_ver2.json',
+	],
+'res/common/panelthings_ver2/settlement_fog.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/icon_ver2/ic_fashu.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/ranking_ver2/Json/ranking_ver2_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/panelthings_ver2/exp_line.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/exp_ui.json',
+	],
+'res/common/panel_ver2/list_2nd_sl.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info_2.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_questions.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info.json',
+	],
+'res/common/button_words/btn_words_quhuixingnang_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/item_info_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/equip_info_ui.json',
+	],
+'res/common/maimai_background_1018.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business.json',
+	],
+'res/common/panelthings_ver2/lv_role.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+	],
+'res/common/button_ver2/bt_frame.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/list.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/icon/item/14016.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/tianti_ui/Json/tianti_kaiqi_ui.json',
+	],
+'res/common/button_ver2/sever_icon.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/enter/Json/enter_1.json',
+	],
+'res/common/progress_v1/progress_general_long.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/icon/skill/30002.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/pet_ui/Json/pet_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/panel_ver2/patttern_dark1.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/enlarge_jiugong/white_tuoyuan_40.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+	],
+'res/common/background_ver2/settlement_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/icon_ver2/icon_bg_normal.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/panel_ver2/board.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/examination_questions/Json/examination_open.json',
+	],
+'res/common/background_ver2/team_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_formation_ver2/Json/team.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/enlarge_jiugong/business_bg_zongse.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business.json',
+	],
+'res/common/icon/head_icon/1006.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_haoyou_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/main_page_v2/Json/main_page_mini_role.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_info.json',
+	],
+'res/common/icon_v1/icon_role_mini_bg_02.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/combat_ui_v1/Json/combat_ui_v1.json',
+	],
+'res/common/button_words/btn_words_shiyong_baoguo.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/item_info_ui.json',
+	],
+'res/common/button_ver2/zhuizong_sec.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_achievement_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/task_ver2_1/Json/task_ver2.json',
+	],
+'res/common/icon_ver2/silvercoin2.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_achievement_schedule.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/qianghua_ui/Json/qianghua_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/fashion_ui/Json/fashion_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/lead_role_ui/Json/lead_role_ui.json',
+	],
+'res/common/icon_v1/icon_lock_01.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_smilies.json',
+	],
+'res/common/icon/equip/10001.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/npc_business/Json/npc_business.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/chat_ui/Json/chat_mail.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/item_details_ui/Json/item_huodong.json',
+	],
+'res/common/tab_ver2/tab_select.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/baitan_shangjia.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/shop_ui/Json/shangcheng_ui.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+'res/common/icon_ver2/icon_frame_normal.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_vic.json',
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/settlement/Json/settlement_def.json',
+	],
+'res/common/panel_things/ih_panel_gai_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/backpack_ui/Json/backpack_ui.json',
+	],
+'res/common/button_words/tiantiduizhan.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/play_ui/Json/play_ui_1.json',
+	],
+'res/common/panelthings_ver2/dot.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/kjzdui.json',
+	],
+'res/common/button_ver2/bt_bg.png' : [
+		'D:/H30/cocosStudio/CocosStudio/ccsprojs/team_ver2_1/Json/team_ver2_1_1.json',
+	],
+}
